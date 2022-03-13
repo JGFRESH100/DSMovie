@@ -62,7 +62,7 @@ a, a:hover {
 }
 
 #dsmovie-card-list {
-    padding:  40px 0;
+    padding:  40px 10px;
 }
 
 .dsmovie-card {
@@ -83,12 +83,12 @@ a, a:hover {
     align-items: center;
     justify-content: space-between;
     border-radius:  0 0 8px 8px;
-    min-height: 220x;
+    min-height: 190x;
 }
 .dsmovie-card-description h3 {
     font-size: 14px;
     font-weight: 700;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     text-align: center;
 }
 
